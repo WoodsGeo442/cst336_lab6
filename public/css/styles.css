@@ -1,9 +1,57 @@
-body{
+.main{
     background-color: #CBE2F6;
     text-align: center;
 }
 
 #solarSystem{
     height: 300px;
+    width: auto;
+}
+
+.fact{
+    font-size: large;
+    padding-left: 200px;
+    padding-right: 200px;
+    text-align: center;
+}
+
+
+#mercury{
+    height: 450px;
+    width: auto;
+}
+
+#venus{
+    height:450px;
+    width: auto;
+}
+
+#earth{
+    height:450px;
+    width: auto;
+}
+
+#mars{
+    height:450px;
+    width: auto;
+}
+
+#jupiter{
+    height:450px;
+    width: auto;
+}
+
+#saturn{
+    height:450px;
+    width: auto;
+}
+
+#uranus{
+    height:450px;
+    width: auto;
+}
+
+#neptune{
+    height:450px;
     width: auto;
 }
